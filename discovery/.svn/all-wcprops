@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/115/trunk/src/com/google/bitcoin/discovery
+END
+SeedPeers.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115/trunk/src/com/google/bitcoin/discovery/SeedPeers.java
+END
+PeerDiscoveryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/115/trunk/src/com/google/bitcoin/discovery/PeerDiscoveryException.java
+END
+PeerDiscovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/115/trunk/src/com/google/bitcoin/discovery/PeerDiscovery.java
+END
+IrcDiscovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/trunk/src/com/google/bitcoin/discovery/IrcDiscovery.java
+END
+DnsDiscovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/trunk/src/com/google/bitcoin/discovery/DnsDiscovery.java
+END
